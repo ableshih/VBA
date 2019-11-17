@@ -16,5 +16,6 @@ Step 03： 以系統管理員身分執行 “命令提示字元”，輸入 regs
 Step 04： 系統提示註冊成功。
 
 來源
+
 http://www.logicwurks.com/CodeExamplePages/EDatePickerControl.html
 http://activex.microsoft.com/controls/vb6/mscomct2.cab
